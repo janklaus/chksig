@@ -1,0 +1,18 @@
+- social: fas fa-envelope
+  link: mailto:info@checksig.io
+
+- social: fab fa-twitter
+  link: https://twitter.com/CheckSigCustody
+
+- social: fab fa-facebook-f
+  link: https://www.facebook.com/CheckSigCustody
+
+- social: fab fa-linkedin-in
+  link: https://www.linkedin.com/company/checksig
+
+- social: fab fa-github
+  link: https://www.github.com/checksig-custody
+
+- social: fa fa-info
+  link: http://www.checksig.io/info
+  
