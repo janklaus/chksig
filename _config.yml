@@ -34,10 +34,19 @@ theme: minima
 plugins:
   - jekyll-feed
   
-page_collections:
-- projects:
-    permalink: pretty
-
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  institution:
+    output: true
+    permalink: /institution/:path/
+  custody:
+    output: true
+    permalink: /custody/:path/
+  solutions:
+    output: true
+    permalink: /solutions/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
